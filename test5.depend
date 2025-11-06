@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703006199 source:c:\users\msi-nb\desktop\canboz\test5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
